@@ -4,6 +4,5 @@ competition2/
 competition3/
 
 final_task/final_assignment_public/
-final_task/figures/
-final_task/slide/
+final_task/slide/*.pptx
 final_task/src/*.html
